@@ -49,6 +49,7 @@ ul li a {
     min-width: 100%;
     padding: 15px 40px;
     font-weight: bold;
+    line-height: 1;
 }
 ul li:first-child a {
     border-top-left-radius: 10px;
