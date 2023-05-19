@@ -10,6 +10,8 @@ body{
 main{
     max-width: 1000px;
     margin: auto;
+    background-color: white;
+    padding: 0px 40px;
 }
 h1{
     background-color: #f4ff7d;
