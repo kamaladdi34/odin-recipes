@@ -12,6 +12,7 @@ main{
     margin: auto;
     background-color: white;
     padding: 0px 40px;
+    min-height: 100vh;
 }
 h1{
     background-color: #f4ff7d;
@@ -40,7 +41,7 @@ ul li a {
     box-sizing: border-box;
     text-decoration: none;
     color: #586000;
-    background-color:#ffffff ;
+    background-color:#ffffd7 ;
     display: block;
     min-width: 100%;
     padding: 15px 40px;
@@ -53,7 +54,6 @@ ul li:first-child a {
 ul li:last-child a{
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
-    border-bottom: none
 }
 ul li a:hover{
     background-color: #ffe065;
@@ -76,7 +76,4 @@ img{
 }
 .recipe-list{
     width: 100%;
-}
-.main-home{
-    background-color: transparent;
 }
