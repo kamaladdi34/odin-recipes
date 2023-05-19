@@ -6,6 +6,8 @@
 }
 body{
     background-color: #fffcf0;
+}
+main{
     max-width: 1000px;
     margin: auto;
 }
@@ -63,4 +65,10 @@ img{
 }
 .ingredients{
     margin: auto 10px;
+}
+.recipe-title{
+    background-color: transparent;
+    font-size: 70px;
+    font-weight: 300;
+    padding: 35px 0px;
 }
