@@ -25,6 +25,9 @@ h1{
     font-size: 25px;
     font-weight: bold;
 }
+h1 a {
+    text-decoration: none;
+}
 h2{
     font-size: 20px;
     color: #768500;
