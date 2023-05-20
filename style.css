@@ -72,6 +72,15 @@ img{
     display: block;
     border-radius: 1000px;
 }
+footer{
+    background-color: #768500;
+}
+footer h2{
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    padding: 10px;
+}
 .ingredients{
     margin: auto 10px;
 }
